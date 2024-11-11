@@ -1,5 +1,7 @@
 # Recherche de stage
 
+[DILIPEM](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-didactique-des-langues-IBC8AWN0/parcours-didactique-des-langues-et-ingenierie-pedagogique-numerique-IBC8IPVM.html)
+
 ## UK
 - https://www.careers.ox.ac.uk/summer-internships-sector-list#collapse3449386
 - https://www.mod-langs.ox.ac.uk/
@@ -11,7 +13,7 @@
 
 Institutions reconnues pour leurs programmes en didactique des langues et leur utilisation des technologies éducatives :
 
-### Université Laval (Québec)
+### Université Laval (Québec) - 2 -
 
 - École de langues : Offre des cours en français, anglais et huit autres langues étrangères, avec une forte composante technologique dans l'enseignement des langues. 
   [FACULTÉ DE LETTRES ET SCIENCES HUMAINES](https://www.flsh.ulaval.ca/ecole-langues)
@@ -29,13 +31,13 @@ Institutions reconnues pour leurs programmes en didactique des langues et leur u
 
 [CENTRE DE LANGUES](https://centre-de-langues.umontreal.ca/accueil/)
 
-### Université de l'Alberta (Campus Saint-Jean)
+### Université de l'Alberta (Campus Saint-Jean) - 3 -
 
 - École de langues : Située au cœur du quartier francophone d'Edmonton, elle est reconnue pour sa formation et ses services en français, intégrant les TICE dans l'enseignement des langues. 
 
 [UNIVERSITÉ DE L'ALBERTA](https://www.ualberta.ca/fr/campus-saint-jean/programmes/apprentissage-et-evaluation-des-langues/index.html)
 
-### Université d'Ottawa
+### Université d'Ottawa - 1 -
 
 - Institut des langues officielles et du bilinguisme : Propose des programmes en didactique des langues et en technologies éducatives.
 
