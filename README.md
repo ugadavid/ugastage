@@ -1,5 +1,7 @@
 # Recherche de stage
 
+**En local :** \Cours\M1\Stage\projet
+
 [DILIPEM](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-didactique-des-langues-IBC8AWN0/parcours-didactique-des-langues-et-ingenierie-pedagogique-numerique-IBC8IPVM.html)
 
 ## UK
@@ -64,3 +66,14 @@ Institutions reconnues pour leurs programmes en didactique des langues et leur u
 - https://pedagogie.uquebec.ca/veille/les-tice-et-les-pedagogies-actives-quelle-utilisation-en-enseignement-universitaire
 - https://univcan.ca/fr/a-propos/
 
+
+
+
+### Back home
+
+**Description :** Projet central pour organiser et suivre tous mes autres projets.
+[Lien vers le dépôt](https://github.com/ugadavid/project-manager)
+
+## Comment contribuer
+
+Envoyez moi votre mail sur le groupe WhatsApp
