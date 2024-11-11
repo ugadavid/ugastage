@@ -7,6 +7,43 @@
 - https://www.hr.admin.cam.ac.uk/policies-procedures/internships-university
 
 ## Canada
+
+
+Institutions reconnues pour leurs programmes en didactique des langues et leur utilisation des technologies éducatives :
+
+### Université Laval (Québec)
+
+- École de langues : Offre des cours en français, anglais et huit autres langues étrangères, avec une forte composante technologique dans l'enseignement des langues. 
+  [FACULTÉ DE LETTRES ET SCIENCES HUMAINES](https://www.flsh.ulaval.ca/ecole-langues)
+
+
+### Université du Québec à Montréal (UQAM)
+
+- École de langues : Propose des programmes et des cours dans plusieurs langues, intégrant les TICE dans leurs méthodes pédagogiques. 
+[LANGUES UQAM](https://langues.uqam.ca/)
+
+### Université de Montréal
+
+- Centre de langues : Offre une variété de cours de langues avec une approche moderne, incluant l'utilisation des technologies éducatives. 
+[CENTRE DE LANGUES](https://centre-de-langues.umontreal.ca/accueil/)
+
+### Université de l'Alberta (Campus Saint-Jean)
+
+- École de langues : Située au cœur du quartier francophone d'Edmonton, elle est reconnue pour sa formation et ses services en français, intégrant les TICE dans l'enseignement des langues. 
+[UNIVERSITÉ DE L'ALBERTA](https://www.ualberta.ca/fr/campus-saint-jean/programmes/apprentissage-et-evaluation-des-langues/index.html)
+
+### Université d'Ottawa
+
+- Institut des langues officielles et du bilinguisme : Propose des programmes en didactique des langues et en technologies éducatives.
+[Université d'Ottawa](https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme=
+
+### Conseils pour la prise de contact :
+
+Recherche de contacts : Sur les sites web des universités, recherchez les sections "École de langues", "Centre de langues" ou "Services TICE" pour trouver les coordonnées des responsables ou des départements concernés.
+Réseaux professionnels : Utilisez des plateformes comme LinkedIn pour identifier et contacter des professionnels travaillant dans ces départements.
+Candidatures spontanées : Préparez une lettre de motivation personnalisée expliquant votre parcours, vos compétences en TICE et votre intérêt pour la didactique des langues, en mettant en avant votre projet de stage.
+
+### Sites de différentes universités
 - https://www.flsh.ulaval.ca/ecole-langues
   - https://www.flsh.ulaval.ca/ecole-langues/cours-reguliers-francais-langue-seconde
 - https://langues.uqam.ca/
